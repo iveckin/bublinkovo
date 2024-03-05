@@ -4328,8 +4328,8 @@ fieldset:disabled .btn {
 .nav-link {
     display: block;
     padding: .5rem 1rem;
-    color: #FE5D37;
-    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out
+    color: #003cff;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -4340,7 +4340,7 @@ fieldset:disabled .btn {
 
 .nav-link:hover,
 .nav-link:focus {
-    color: #cb4a2c
+    color: #1100ff
 }
 
 .nav-link.disabled {
@@ -4395,7 +4395,7 @@ fieldset:disabled .btn {
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: #FE5D37
+    background-color: #1100ff
 }
 
 .nav-fill>.nav-link,
@@ -5169,7 +5169,7 @@ fieldset:disabled .btn {
 
 .page-link:hover {
     z-index: 2;
-    color: #cb4a2c;
+    color: #006eff;
     background-color: #e9ecef;
     border-color: #dee2e6
 }
