@@ -643,6 +643,7 @@ progress {
     padding-left: var(--bs-gutter-x, .75rem);
     margin-right: auto;
     margin-left: auto;
+
 }
 
 @media (min-width: 576px) {
@@ -4429,7 +4430,8 @@ fieldset:disabled .btn {
     justify-content: space-between;
     padding-top: .5rem;
     padding-bottom: .5rem;
-    color:var(--bs-teal);
+    color:#dbfeff;
+    d
 
 }
 
@@ -7011,7 +7013,6 @@ fieldset:disabled .btn {
     position: sticky;
     top: 0;
     z-index: 1020;
-    background-color:#055160;
 
 }
 
